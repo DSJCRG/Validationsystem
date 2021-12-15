@@ -1209,7 +1209,7 @@ def parse_data0(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1234,7 +1234,7 @@ def parse_data0(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1285,7 +1285,7 @@ def parse_data1(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1310,7 +1310,7 @@ def parse_data1(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1361,7 +1361,7 @@ def parse_data2(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1386,7 +1386,7 @@ def parse_data2(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1437,7 +1437,7 @@ def parse_data3(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1462,7 +1462,7 @@ def parse_data3(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1515,7 +1515,7 @@ def parse_data4(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1540,7 +1540,7 @@ def parse_data4(contents, filename):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -1981,7 +1981,7 @@ def updateTable(n_clicks):
 # def get_engine():
 #         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
 #                         'jrivas',
-#                         '8khHAM=B=q$ZGr6N',
+#                         'XXXXX',
 #                         'koice',
 #                         'ko_ice',
 #                         1433)
@@ -2161,7 +2161,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2186,7 +2186,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2210,7 +2210,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2250,7 +2250,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2275,7 +2275,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2299,7 +2299,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2339,7 +2339,7 @@ where sl.Question = '¿El enfriador se encuentra lleno arriba del 75%?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2364,7 +2364,7 @@ where sl.Question = '¿El enfriador se encuentra lleno arriba del 75%?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2388,7 +2388,7 @@ where sl.Question = '¿El enfriador se encuentra lleno arriba del 75%?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2430,7 +2430,7 @@ where sl.Question = '¿El enfriador se encuentra lleno arriba del 75%?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2455,7 +2455,7 @@ where sl.Question = '¿El enfriador se encuentra lleno arriba del 75%?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2479,7 +2479,7 @@ where sl.Question = '¿El enfriador se encuentra lleno arriba del 75%?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2519,7 +2519,7 @@ where sl.Question = '¿Qué material exterior FIJO de Coca-Cola hay y cuántos?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2544,7 +2544,7 @@ where sl.Question = '¿Qué material exterior FIJO de Coca-Cola hay y cuántos?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2568,7 +2568,7 @@ where sl.Question = '¿Qué material exterior FIJO de Coca-Cola hay y cuántos?'
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2622,7 +2622,7 @@ def display_table(dropdown_value):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2647,7 +2647,7 @@ def display_table(dropdown_value):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2732,7 +2732,7 @@ def selected_data_to_xlsx(nclicks,table1_enf):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2754,7 +2754,7 @@ def selected_data_to_xlsx(nclicks,table1_enf):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2826,7 +2826,7 @@ def selected_data_to_xlsx(nclicks,table1):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2848,7 +2848,7 @@ def selected_data_to_xlsx(nclicks,table1):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -2999,7 +2999,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
@@ -3024,7 +3024,7 @@ def update_data(chosen_rows,piedropval,linedropval):
     def get_engine():
         connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'jrivas',
-                        '8khHAM=B=q$ZGr6N',
+                        'XXXXX',
                         'koice',
                         'ko_ice',
                         1433)
