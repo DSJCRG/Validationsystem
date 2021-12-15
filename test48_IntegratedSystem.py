@@ -44,7 +44,7 @@ dddf = pd.read_excel(r"C:\Users\Lenovo\OneDrive - Storecheck S.A. de C.V\Documen
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -77,7 +77,7 @@ available_indicators = dddf['SessionUid'].unique()
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -105,7 +105,7 @@ xxf = pd.DataFrame(get_query(query))
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -158,7 +158,7 @@ yf['randNumCol'] = np.random.randint(0,1, size=len(yf))
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -194,7 +194,7 @@ jf=yf
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -240,7 +240,7 @@ df2 = df.groupby(['MarketSegment', 'Segment', 'LocationId', 'SessionUid'], as_in
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -277,7 +277,7 @@ def generate_table(dataframe, max_rows=10):
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
@@ -304,7 +304,7 @@ pf2 = pd.DataFrame(get_query(query2))
 def get_engine():
     connection_string = "mssql+pyodbc://{0}@{2}:{1}@{2}.database.windows.net:{4}/{3}?driver=ODBC+Driver+17+for+SQL+Server".format(
                         'ko_ice_reader',
-                        'Hy7kHX64eHn+4JaR',
+                        'xxxxxx',
                         'koice',
                         'ko_ice',
                         1433)
